@@ -1,1 +1,1 @@
-foo bar bizz banf
+foo bar bizz bang
